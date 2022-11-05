@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umit</h1>
 <h3 align="center">I'm interested in Cloud Automation, Orchestration (vRA, vRO) and Microservices.</h3>
 
-- 🔭 I’m currently working on **Microservices Architecture & Software Development **
+- 🔭 I’m currently working on **Microservices Architecture & Software Development**
 
 - 📝 I regularly write articles on [https://umitdemirtas.com](https://umitdemirtas.com)
 
